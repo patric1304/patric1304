@@ -26,7 +26,6 @@ Currently looking for remote junior developer roles in full-stack or backend.
 |---------|-------|-------------|
 | [Stock Price Prediction Model](https://github.com/patric1304/Stock-price-prediction-model) | PyTorch · TensorFlow · NLP | LSTM-based predictor with sentiment analysis on financial news |
 | [Water Quality IoT System](https://github.com/patric1304/Water-quality-IOT-project) | Raspberry Pi · MQTT · AWS IoT · Django | Real-time sensor monitoring with anomaly detection and a live dashboard |
-| [Portfolio](https://github.com/patric1304/Portfolio) | Next.js · TypeScript | Live at [patric-pop.vercel.app](https://patric-pop.vercel.app/) |
 | [iTEC 2026](https://github.com/AlexandruCL/iTEC_2026) | Team project | Collaborative coding platform built at a hackathon |
 | [Echoes Digital Heritage Trail] (https://github.com/ionutT77/Echoes-Digital-Heritage-Trail) | Team project | Interactive cultural exploration application
 
